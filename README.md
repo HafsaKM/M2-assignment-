@@ -9,4 +9,4 @@ I will upload the project proposal here after marking is complete.
 
 References : https://github.com/HafsaKM/M2-assignment-/blob/main/References
 
-Simulation code :
+Simulation code : https://github.com/HafsaKM/M2-assignment-/blob/main/Simulation%20of%20the%20NK%20Cell%20ROS%20Defense%20System.ipynb
