@@ -3,7 +3,7 @@ Engineering next generation Natural Killer cells to withstand Reactive oxygen sp
 
 This git-hub rep contains the references used for the M2 assignmnet set by Professor Nikolai Windbichler.
 
-Also, present here is the code I used to model the interactions between the componenets of the gene circuit and how they respond to ROS. 
+Also, present here is the code I wrote to model the interactions between the components of the gene circuit and how they respond to ROS. 
 
 I will upload the project proposal here after marking is complete.
 
